@@ -1,0 +1,33 @@
+# Dependencies and generated build output
+node_modules/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Local work, captures, and supplied reference materials
+work/
+attachments/
+reference/
+references/
+*.mp4
+*.mov
+*.webm
+
+# Secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+.aws/
+.codex/
+.agents/
+.DS_Store
+*.log
+
+# Requested review capture (not a supplied reference recording)
+!docs/review/hero-scroll.mp4

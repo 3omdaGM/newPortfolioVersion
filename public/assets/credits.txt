@@ -1,0 +1,21 @@
+VISUAL CREDITS — MOHAMED EL-TAHER PORTFOLIO
+
+Portrait: Mohamed El-Taher, supplied by the portfolio owner.
+Original photo retrieved from the owner's existing portfolio repository:
+https://github.com/3omdaGM/portfolio/blob/main/images/profile.jpg
+portrait.jpg is the unmodified source. portrait-cutout.png is an AI-assisted
+background-removal derivative used in the hero; it may differ in fine detail.
+The original photograph is presented in the About section.
+
+Sculptural head: Lee Perry-Smith / Infinite-Realities.
+Creative Commons Attribution 3.0 Unported (CC BY 3.0).
+https://creativecommons.org/licenses/by/3.0/
+Source distribution: https://casual-effects.com/data/
+Local glTF sourced from the Three.js examples:
+https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf/LeePerrySmith
+Modifications: recentered and rescaled at runtime, reflective material,
+per-triangle displacement and shrinkage, custom lighting and animation.
+This sculpture is NOT a reconstruction or likeness of Mohamed El-Taher.
+
+Project illustrations are original CSS compositions created for this portfolio.
+They are labeled concept studies and are not application screenshots.
